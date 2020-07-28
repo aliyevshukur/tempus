@@ -1,1 +1,1 @@
-Time management web application
+Time management web application.
