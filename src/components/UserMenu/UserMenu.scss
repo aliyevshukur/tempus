@@ -1,0 +1,14 @@
+.user-menu {
+    width: 200px;
+    position: absolute;
+    top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+
+    .user-menu-item {
+        text-decoration: none;
+        color: #000;   
+    }
+}
